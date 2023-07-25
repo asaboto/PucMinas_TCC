@@ -9,6 +9,7 @@ ALESSANDRO ZABOTTO
 
 
 Jornada do Cliente
+
 Potencial do CX e mídias sociais para tomada de decisões no Pós-Venda
 
 Paulínia / SP
