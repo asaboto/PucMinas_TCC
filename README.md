@@ -1,17 +1,16 @@
 
-PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS NÚCLEO DE EDUCAÇÃO A DISTÂNCIA
-
-
+PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+NÚCLEO DE EDUCAÇÃO A DISTÂNCIA
 Pós-graduação Lato Sensu em Ciência de Dados e Big Data
 
 
 ALESSANDRO ZABOTTO
 
 
-Jornada do Cliente
+Análise dos dados da Central de Atendimento
+ao Cliente para melhoria do produto e serviço
 
-Potencial do CX e mídias sociais para tomada de decisões no Pós-Venda
 
 Paulínia / SP
+2023 
 
-2023
