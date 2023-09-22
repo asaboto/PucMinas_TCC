@@ -14,3 +14,5 @@ ao Cliente para melhoria do produto e serviço
 Paulínia / SP
 2023 
 
+Relatório TCC: TCC_CienciaDeDados_CAC_AlessandroZabotto.pdf
+Vídeo da apresentação: TCC_CienciaDeDados_CAC_AlessandroZabotto_Apresentacao.mp4
