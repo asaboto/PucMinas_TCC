@@ -18,8 +18,8 @@ Relatório TCC:
 TCC_CienciaDeDados_CAC_AlessandroZabotto.pdf
 
 Código Python:
-TCC_CienciaDeDados_CAC_AlessandroZabotto_Apresentacao.ipynb
-TCC_CienciaDeDados_CAC_AlessandroZabotto_Apresentacao.py
+TCC_CienciaDeDadosBigData_CAC_AlessandroZabotto_Apresentacao.ipynb
+TCC_CienciaDeDadosBigData_CAC_AlessandroZabotto_Apresentacao.py
 
 Vídeo da apresentação:
-TCC_CienciaDeDados_CAC_AlessandroZabotto_Apresentacao.mp4
+https://youtu.be/qmrb014HDQQ
